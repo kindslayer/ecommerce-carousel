@@ -1,6 +1,8 @@
 # ecommerce-carousel
 Jquery carousel slider for view product, Touch work only on phones.
 
+![product-carousel](https://github.com/kindslayer/ecommerce-carousel/blob/master/jquery.ecommerc.slider.jpg)
+
 1. #### Make your html themplate.
 This is bootstrap example.
 ```
